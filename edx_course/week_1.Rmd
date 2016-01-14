@@ -27,3 +27,9 @@ hello world
 My name is Alicia and my age is 28
 >>> ================================ RESTART ================================
 >>> #All the variables have been deleted and the python shell re-started
+
+
+
+#ALGORITHM VS PROGRAM
+The algorith tells the steps to follow in order to solve a problem and the program contains the intructions
+in a particular programming language that allow to apply those instructions
