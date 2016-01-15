@@ -1,9 +1,10 @@
 ---
-title: "Week_1"
+title: "Untitled"
 author: "Alicia Lledo Lara"
-date: "13 January 2016"
+date: "15 January 2016"
 output: html_document
 ---
+
 Python 3.4.3rc1 (v3.4.3rc1:69dd528ca625, Feb  8 2015, 11:04:26) [MSC v.1600 64 bit (AMD64)] on win32
 Type "copyright", "credits" or "license()" for more information.
 
@@ -13,7 +14,7 @@ Type "copyright", "credits" or "license()" for more information.
 >>> #Single quotations can also be used ''
 >>> 'hello world'
 'hello world'
-
+...
 >>> #Print statement can be used to just print the desired values
 >>> x='hello world'
 >>> print (x)
@@ -27,7 +28,7 @@ hello world
 My name is Alicia and my age is 28
 >>> ================================ RESTART ================================
 >>> #All the variables have been deleted and the python shell re-started
-
+...
 
 
 #ALGORITHM VS PROGRAM
